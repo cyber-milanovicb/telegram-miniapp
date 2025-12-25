@@ -1,0 +1,15 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #0f0f0f;
+  color: #fff;
+  padding: 15px;
+}
+
+a {
+  color: #00bfff;
+  text-decoration: none;
+}
+
+p {
+  margin-bottom: 12px;
+}
